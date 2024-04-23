@@ -1,6 +1,7 @@
 # Smart-Two-wheeler-monitoring-system
 AIM:-  Our aim is to make the 2-wheelers SMART with the help of IoT. 
 
+Tech stack- IoT, arduino, embedded, robotics.
 Objectives-   Monitoring, Maintenance and Safety of vehicle and rider
   
 Smart-Two-wheeler-monitoring-system:
