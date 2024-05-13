@@ -1,5 +1,5 @@
-# Smart-Two-wheeler-monitoring-system
-AIM:-  Our aim is to make the 2-wheelers SMART with the help of IoT. 
+# Smart-Two-wheeler-management-system
+Build a prototype of vehicle management for monitoring vehicle dynamics using IoT consisting of 3 sub-systems skid prevention system, tyre pressure check system and anti-theft and emergency system
 
 Tech stack- IoT, arduino, embedded, robotics.
 
